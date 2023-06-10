@@ -1,0 +1,111 @@
+body {
+    font-family: sans-serif;
+    background: #74f501;
+    
+}
+header{
+    background-color: #FFDAB9;
+    padding:10px;
+    border-radius: 5px;
+}
+
+header b{
+    color: red;
+}
+header a{
+    border-radius:5px;
+    background-color: green;
+    margin: 5px;
+    padding: 5px;
+    color: cyan;
+    text-decoration: none;
+}
+main h1{
+    text-align:center;
+    color: blue;
+    border-radius: 5px;
+    background-color: red;
+}
+footer{
+    color:green;
+    
+    border-radius: 5px;
+    
+}
+footer p{
+    background: rgb(0, 255, 149);
+    padding: 5px;
+    margin: 5px;
+}
+nav a{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: darkblue;
+    background-color: coral;
+    text-align: center;
+}
+nav{
+    margin: 15px;
+    padding: 10px;
+}
+h4 img{
+  border: red 10px;
+  background-color: red;
+  border-radius: 5px;
+  padding: 5px;  
+  margin: 5px;
+}
+.top{
+    color:rgb(255, 0, 0);
+    border-radius: 5px red;
+    background-color: blanchedalmond ;
+    background: rgb(9,9,121);
+background: linear-gradient(90deg, rgba(9,9,121,1) 0%, rgba(116,245,1,1) 52%, rgba(0,212,255,1) 100%);
+}
+.kd{
+    background-color: red;
+    border-radius: 5px;
+    text-align: center;
+}
+p1{
+    color: red;
+}
+p i{
+    color: blue;
+}
+.red{
+    text-align: center;
+    color: blueviolet;
+}
+.port{
+    text-align: center;
+    border-radius: 5px;
+    margin: 250px;
+    padding: 5px;
+    color: crimson;
+    background-color: rgb(86, 195, 238);
+    text-decoration: none;
+}
+.boo{
+    
+    color: red;
+}
+.noy{
+    text-align: center;
+    color: red;
+}
+.zz{
+    text-align: center;
+    color: aqua;
+}
+.xx{
+    text-align: center;
+    border-radius: 5px;
+    margin: 250px;
+    padding: 5px;
+    color: rgb(255, 209, 4);
+    background-color: rgb(101, 86, 238);
+    text-decoration: none;
+}
